@@ -12,5 +12,13 @@
   "license": "ISC",
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Medoune-ops/node-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Medoune-ops/node-project/issues"
+  },
+  "homepage": "https://github.com/Medoune-ops/node-project#readme"
 }
