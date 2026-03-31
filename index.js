@@ -5,6 +5,8 @@ const PORT = 3000;
 
 app.use(express.json());
 
+const tasks = [];
+
 app.get('/', (req, res) => {
   res.json({ message: 'Bienvenue sur mon API REST' });
 });
